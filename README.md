@@ -1,1 +1,3 @@
 # Omikuji
+
+おみくじが引けるandroidアプリ
